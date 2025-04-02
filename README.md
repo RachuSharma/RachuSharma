@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rachana Sharma</h1>
+<h1 align="center">Hi , I'm Rachana Sharma</h1>
 <h3 align="center">💻 Software Engineering Student | VIA University in Horsens, Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachusharma&label=Profile%20views&color=0e75b6&style=flat" alt="rachusharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachusharma" alt="rachusharma" /></a> </p>
 
-- 🌐 Skilled in **Java, JavaScript, C#, Python, and Blazor**
+-  Skilled in **Java, JavaScript, C#, Python, and Blazor**
 
-- 🌱 I’m currently learning **Machine Learning, C programming, React, Docker, and CI/CD. Diving deeper into Data Structures, Object-Oriented Programming, Networking, Web Development, and Database Systems.**
+-  I’m currently learning **Machine Learning, C programming, React, Docker, and CI/CD. Diving deeper into Data Structures, Object-Oriented Programming, Networking, Web Development, and Database Systems.**
 
 - Currently open **to internship or student job opportunities to apply and expand my development skills**
 
-- ⚡ Fun fact **I have a background in nursing care—teaching me empathy, resilience, and adaptability, traits I bring into software projects**
+-  Fun fact **I have a background in nursing care—teaching me empathy, resilience, and adaptability, traits I bring into software projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachusharma&show_icons=true&locale=en" alt="rachusharma" /></p>
 
 <!--
-**RachuSharma/RachuSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RachuSharma/RachuSharma** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
